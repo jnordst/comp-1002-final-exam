@@ -1,0 +1,16 @@
+@media (width < 760px) {
+    #main-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+    main {
+        width: 90%;
+    }
+
+    aside {
+        width: 90%;
+    }
+}

@@ -1,0 +1,32 @@
+@media (width < 560px) {
+    #main-nav ul {
+        gap: 0px;
+    }
+
+    #main-header {
+        height: 100%;
+    }
+
+    #main-header h1 {
+        font-size: 80px;
+        text-align: center;
+    }
+
+    #main-header h2{
+        display: none;
+    }
+
+    main figure {
+        float: none;
+        justify-content: center;
+        align-items: center;
+    }
+
+    main p {
+        font-size: 14px;
+    }
+
+    aside li {
+        font-size: 12px;;
+    }
+}
